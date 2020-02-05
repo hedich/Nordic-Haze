@@ -1,0 +1,59 @@
+* {
+    background-color: #00000000;
+    text-color: #8BA1BB;
+    font: "Rubik Regular 16";
+    highlight: none;
+}
+ 
+window {
+    width: 100%;
+    height: 100%;
+    text-color: #00ff00;
+    background-color: #2E3440BB;
+}
+ 
+mainbox {
+    padding: 20% 30% 20% 30%;
+    background-color: #00000000;
+}
+ 
+inputbar {
+    background-color: #00000000;
+    padding: 20px 0px;
+}
+ 
+prompt {
+    background-color: #00000000;
+    padding: 0px 30px 0px 0px;
+}
+ 
+entry {
+    background-color: #00000000;
+}
+ 
+message {
+    background-color: #00000000;
+}
+ 
+textbox {
+    background-color: #00000000;
+    font: "Rubik Regular 14";
+}
+ 
+sidebar {
+    background-color: #00000000;
+}
+ 
+listview {
+    background-color: #00000000;
+    dynamic: false;
+}
+element {
+    padding: 20px 0px;
+}
+element selected {
+    text-color: #FFFFFF;
+}
+ci {
+    text-color: #00000000;
+}
